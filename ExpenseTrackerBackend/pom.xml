@@ -4,6 +4,9 @@
     <groupId>com.AcklenAvenueChallenge</groupId>
     <artifactId>ExpenseTrackerBackend</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <name>ExpenseTrackerBackend</name><!-- this name of application backend-->
+    <description>This Application is for the logic operation of the app expense tracker
+                 Acklen Avenue Challenge</description><!--this tag is for that we add information about of app--> 
     <packaging>jar</packaging>
     <parent>
         <groupId>org.springframework.boot</groupId>
